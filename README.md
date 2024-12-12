@@ -38,10 +38,10 @@ Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael  (2020), “LG 1
 https://data.mendeley.com/datasets/cp3473x7xv/3 
 
 # Image Citations:
-[Image One]:
+Image One:
 https://makeabilitylab.github.io/physcomp/electronics/electricity-basics.html 
 
-[Image Two]:
+Image Two:
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_%28OpenStax%29/17%3A_Electrochemistry/17.05%3A_Batteries_and_Fuel_Cells 
 
 
