@@ -16,18 +16,20 @@ A battery an electrochemical device that is used to store and release energy. Th
 7) State of Charge (SoC):
    - Percentage of maximum capacity of a battery with its current charge. (Remaining electricity left in the battery cells.)
 
-
 ![image](https://github.com/user-attachments/assets/7f845354-0731-4dca-9362-93713d4f7f01)
 
+# Project Details
+The purpose of this project is to create a tutorial on how to use MATLAB as a statistics and machine learning tool. During the tutorial, we will go through how to build a deep learning model to predict battery state of charge. 
 
-The purpose of this project is to create a tutorial on how to use MATLAB as a statistics and machine learning tool. During the tutorial, we will go through how to build a machine learning model (Supervised Learning: Linear Regression). The model will have to predict the SoC of a battery.
-
+# Prerequisites
 1) Software Used: MATLAB
 2) Project Consists of:
    - Instructions/Code used:
         * https://www.mathworks.com/help/deeplearning/ug/predict-soc-using-deep-learning.html
    - MATLAB Packages
-
+        * Statistical and Machine Learning Toolbox
+        * Parallel Computing Toolbox
+        * Deep Learning Toolbox
 
 # References:
 Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael  (2020), “LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script”, Mendeley Data, V3, doi: 10.17632/cp3473x7xv.3 
