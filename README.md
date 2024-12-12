@@ -16,6 +16,8 @@ A battery an electrochemical device that is used to store and release energy. Th
 7) State of Charge (SoC):
    - Percentage of maximum capacity of a battery with its current charge. (Remaining electricity left in the battery cells.)
 
+![image](https://github.com/user-attachments/assets/19a1e5cc-7371-425f-b375-1741df6e8444)
+
 ![image](https://github.com/user-attachments/assets/7f845354-0731-4dca-9362-93713d4f7f01)
 
 # Project Details
@@ -35,7 +37,11 @@ The purpose of this project is to create a tutorial on how to use MATLAB as a st
 Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael  (2020), “LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script”, Mendeley Data, V3, doi: 10.17632/cp3473x7xv.3 
 https://data.mendeley.com/datasets/cp3473x7xv/3 
 
-# Image Citation:
+# Image Citations:
+[Image One]:
+https://makeabilitylab.github.io/physcomp/electronics/electricity-basics.html 
+
+[Image Two]:
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_%28OpenStax%29/17%3A_Electrochemistry/17.05%3A_Batteries_and_Fuel_Cells 
 
 
