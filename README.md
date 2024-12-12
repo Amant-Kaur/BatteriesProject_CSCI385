@@ -18,10 +18,12 @@ The purpose of this project is to create a tutorial on how to use MATLAB as a st
 
 1) Software Used: MATLAB
 2) Project Consists of:
-* Batterys Datasheet -> Made manually in Excel and converted over to a .mat file for MATLAB analysis purposes.
-* .m file containing ML
+   - Instructions used:
+        * https://www.mathworks.com/help/deeplearning/ug/predict-soc-using-deep-learning.html
+   - MATLAB Packages
 
 
 # References:
-Battery Characteristics. University of Cambridge, 24 Aug. 2023, https://eng.libretexts.org/@go/page/21178. 
-https://www.doitpoms.ac.uk/tlplib/batteries/battery_characteristics.php#2 
+Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael  (2020), “LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script”, Mendeley Data, V3, doi: 10.17632/cp3473x7xv.3 
+https://data.mendeley.com/datasets/cp3473x7xv/3 
+
