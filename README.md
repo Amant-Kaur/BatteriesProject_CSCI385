@@ -1,5 +1,5 @@
-# BatteriesProject_CSCI385
-Semester Project for CSCI 385, Introduction to Data Science -- Using a generated dataset on voltage, current, temperature, and SoC values of a simulated battery.
+![image](https://github.com/user-attachments/assets/ec0dc951-0c59-494d-a729-6956c969cbad)# BatteriesProject_CSCI385
+Semester Project for CSCI 385, Introduction to Data Science -- Using a dataset consisting of voltage, current, temperature, and SoC values of batteries.
 
 What in the world battery??
 A battery an electrochemical device that is used to store and release energy. This energy is used as power to power electrical devices. A battery is able to convert one type of energy over to another, for example chemical to electrical. Some characteristics of a battery are its voltage and current levels as well as its temperature and State of Charge (SoC).
@@ -11,7 +11,13 @@ A battery an electrochemical device that is used to store and release energy. Th
    - Flow of electrons / electric charge. This is dependent on the load connected to the battery and how much it can be supplied. In a battery, this variable is measured in amphere-hours (Ah), meaning how much the battery can be supplying charge over one hour.
    - Example: 100Ah battery can supply 100 amps for 1 hour of time.
 5) Temperature:
-6) State of Charge (SoC):
+   - A battery's temperature effects its life and performance. THe ideal temperature is 78 degrees Farhenheit.
+   - Batteries can lose charge faster in higher temperatures than in lower temperatures. 
+7) State of Charge (SoC):
+   - Percentage of maximum capacity of a battery with its current charge. (Remaining electricity left in the battery cells.)
+
+
+![image](https://github.com/user-attachments/assets/7f845354-0731-4dca-9362-93713d4f7f01)
 
 
 The purpose of this project is to create a tutorial on how to use MATLAB as a statistics and machine learning tool. During the tutorial, we will go through how to build a machine learning model (Supervised Learning: Linear Regression). The model will have to predict the SoC of a battery.
@@ -26,4 +32,9 @@ The purpose of this project is to create a tutorial on how to use MATLAB as a st
 # References:
 Kollmeyer, Philip; Vidal, Carlos; Naguib, Mina; Skells, Michael  (2020), “LG 18650HG2 Li-ion Battery Data and Example Deep Neural Network xEV SOC Estimator Script”, Mendeley Data, V3, doi: 10.17632/cp3473x7xv.3 
 https://data.mendeley.com/datasets/cp3473x7xv/3 
+
+# Image Citation:
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_%28OpenStax%29/17%3A_Electrochemistry/17.05%3A_Batteries_and_Fuel_Cells 
+
+
 
