@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec0dc951-0c59-494d-a729-6956c969cbad)# BatteriesProject_CSCI385
+# BatteriesProject_CSCI385
 Semester Project for CSCI 385, Introduction to Data Science -- Using a dataset consisting of voltage, current, temperature, and SoC values of batteries.
 
 What in the world battery??
