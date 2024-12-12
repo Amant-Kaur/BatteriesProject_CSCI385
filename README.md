@@ -18,7 +18,7 @@ The purpose of this project is to create a tutorial on how to use MATLAB as a st
 
 1) Software Used: MATLAB
 2) Project Consists of:
-   - Instructions used:
+   - Instructions/Code used:
         * https://www.mathworks.com/help/deeplearning/ug/predict-soc-using-deep-learning.html
    - MATLAB Packages
 
