@@ -11,7 +11,7 @@ A battery an electrochemical device that is used to store and release energy. Th
    - Flow of electrons / electric charge. This is dependent on the load connected to the battery and how much it can be supplied. In a battery, this variable is measured in amphere-hours (Ah), meaning how much the battery can be supplying charge over one hour.
    - Example: 100Ah battery can supply 100 amps for 1 hour of time.
 5) Temperature:
-   - A battery's temperature effects its life and performance. THe ideal temperature is 78 degrees Farhenheit.
+   - A battery's temperature effects its life and performance. The ideal temperature is 78 degrees Farhenheit.
    - Batteries can lose charge faster in higher temperatures than in lower temperatures. 
 7) State of Charge (SoC):
    - Percentage of maximum capacity of a battery with its current charge. (Remaining electricity left in the battery cells.)
