@@ -22,6 +22,7 @@ A battery an electrochemical device that is used to store and release energy. Th
 
 # Project Details
 The purpose of this project is to create a tutorial on how to use MATLAB as a statistics and machine learning tool. During the tutorial, we will go through how to build a deep learning model to predict battery state of charge. 
+https://www.mathworks.com/help/matlab/index.html?s_tid=CRUX_lftnav 
 
 # Prerequisites
 1) Software Used: MATLAB
