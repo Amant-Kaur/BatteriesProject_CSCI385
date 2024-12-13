@@ -1,7 +1,7 @@
 # MATLAB Tutorial, CSCI385
 Semester Project for CSCI 385, Introduction to Data Science -- Using a dataset consisting of voltage, current, temperature, and SoC values of batteries.
 
-# What in the world battery??
+# What in the world is a battery??
 A battery an electrochemical device that is used to store and release energy. This energy is used as power to power electrical devices. A battery is able to convert one type of energy over to another, for example chemical to electrical. Some characteristics of a battery are its voltage and current levels as well as its temperature and State of Charge (SoC).
 
 1) Voltage:
