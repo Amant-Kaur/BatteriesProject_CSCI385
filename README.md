@@ -1,4 +1,4 @@
-# BatteriesProject_CSCI385
+# MATLAB Tutorial, CSCI385
 Semester Project for CSCI 385, Introduction to Data Science -- Using a dataset consisting of voltage, current, temperature, and SoC values of batteries.
 
 # What in the world battery??
